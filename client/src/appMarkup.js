@@ -1,6 +1,6 @@
 export const appMarkup = `<div class="app">
   <header class="board-header">
-    <a href="/" class="brand" aria-label="Slate home">
+    <a href="/" class="brand" aria-label="Slate home" style="text-decoration: none; color: inherit;">
       <h1>Slate<span class="dot">.</span></h1>
       <p>
         Watch algorithms think, one step at a time — then use the built-in
