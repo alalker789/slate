@@ -931,7 +931,8 @@ git push origin feature/new-visualizer
 
 ## License
 
-No license has been specified in the repository documentation yet. Add an appropriate `LICENSE` file before granting explicit reuse or redistribution permissions.
+This project is licensed under the MIT License.
+You are free to use, modify, and distribute this software in accordance with the license terms.
 
 ---
 
